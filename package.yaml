@@ -35,7 +35,6 @@ dependencies:
   - vector
 
 default-extensions:
-  - AutoDeriveTypeable
   - BangPatterns
   - BinaryLiterals
   - ConstraintKinds
