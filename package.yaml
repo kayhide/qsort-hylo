@@ -23,6 +23,7 @@ dependencies:
   - filepath
   - mtl
   - primitive
+  - recursion-schemes
   - stm
   - text
   - time
